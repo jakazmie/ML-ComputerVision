@@ -15,9 +15,15 @@ The following development environments are supported:
 - **PyCharm**
 - **Azure Databricks**
 
-In this workshop we will use Linux (Ubuntu) **Azure Data Science Virtual Machine** as the lab environment.
 
-The DSVM comes with all the pre-requisities pre-installed. No additional configuration is required.
+### To set up Azure Notebooks
+
+1. Log on to https://notebooks.azure.com using the account you use to access Azure Portal
+
+2. Navigate to *My Projects*
+
+3. Use *Upload GitHub Repo* option to copy this repository to Azure Notebooks project.
+
 
 ### To provision Azure Data Science Virtual Machine
 
